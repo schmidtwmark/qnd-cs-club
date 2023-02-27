@@ -63,6 +63,11 @@ Mark Schmidt
 - Kaboom lets us build simple games
 
 
+---
+
+# Assets
+
+### https://markschmidt.io/assets/chrome-dino.zip
 
 
 
