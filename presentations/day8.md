@@ -14,6 +14,7 @@ Mark Schmidt
 - Image Generation recap
 - A History Lesson
 - Codebreaking
+- NO CLUB NEXT WEEK
 
 ---
 
@@ -122,4 +123,4 @@ Mark Schmidt
 
 # Coding Today
 
-- Let's write a program that encodes/decodes Caesar ciphers
+- Let's write a program that encodes/decodes Caesar cipher
